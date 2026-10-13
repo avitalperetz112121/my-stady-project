@@ -1,0 +1,27 @@
+.container {
+  border: 2px solid #4a90e2;
+  border-radius: 8px;
+  padding: 16px;
+  margin: 12px;
+  background-color: #f0f4f8;
+}
+
+.title {
+  color: #2c3e50;
+  margin-top: 0;
+}
+
+.taskList {
+  list-style-type: none;
+  padding: 0;
+}
+
+.taskItem {
+  margin: 8px 0;
+  font-size: 16px;
+}
+
+.completed {
+  text-decoration: line-through;
+  color: #888888;
+}
